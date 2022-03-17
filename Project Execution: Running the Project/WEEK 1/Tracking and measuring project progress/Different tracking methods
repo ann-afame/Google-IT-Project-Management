@@ -1,0 +1,69 @@
+Different tracking methods
+
+Now that you understand how essential tracking is, let's explore and compare various types of tracking methods. The purpose of your project plan is to guide you
+through the execution of your project. 
+
+Therefore, it will always include at least one type of tracking method, and sometimes you might use more than one depending on what your team needs. 
+
+The tracking methods we'll discuss in this video are a 
+Gantt chart, 
+a roadmap,  
+burndown chart. 
+
+There are many others, but these are the few that I'm going to focus on. Whichever type you choose depends on what you deem suitable for your project. It's 
+important to remember to select something that the entire team can easily understand, reference, and keep up to date. 
+
+Let's compare the tracking methods I mentioned. Perhaps the most common tracking method of all is the Gantt chart. It's a tried and true tool to keep your project
+on track.
+
+A Gantt chart measures tasks against time and includes useful information, like who will own each task and what the order of the tasks should be. For this reason,
+it's a useful chart for staying on schedule and for projects with many dependencies or tasks or activities or milestones that are reliant on one another.
+
+It's also a helpful chart for teams with a lot of people, because ownership and responsibilities are explicitly laid out visually. As you track and move along
+sequentially over time, this starts to look like a waterfall; hence, why Gantt charts are commonly used in Waterfall project management. 
+
+Each task is represented by a horizontal progress bar, and the length of the bar is dependent on how much time is allotted to the task. The bars are stacked on top
+of each other to denote that the task at the top must be completed before the next one below it can be completed. Gantt charts typically live in your project plan
+and are updated as the project progresses.
+
+Another common tracking method we have here at Google is a roadmap. A roadmap is best suited for when you need a way to track big milestones in your project. It's
+useful for illustrating how a project should evolve over time to a team and key stakeholders.
+
+Here's an example: a roadmap might list your project's goals at the top and a description of the approach we'll be taking to meet those goals. In this example,
+the goals are to increase online business-to-consumer sales by 20 percent year-over-year and to increase holiday sales to existing customers by eight percent over
+last year. 
+
+The approach details the main tactics your team will use to reach your goal. A roadmap also includes a high-level project overview. High-level in this context
+means a concise summary, usually three-to-four sentences, to clearly state the objectives and priorities for your project.
+
+Below the goals, approach, and overview is a table that maps out what the process will entail. In this example, our table is divided into quarters that reflect
+the project timeline. A quarter is a three-month period on a company's financial calendar. Key milestones are listed for each quarter. Then, there are tasks that
+each team member or department needs to complete. Most tasks may map to a milestone due within the same quarter. 
+
+In our example, the project as a whole has a key milestone in Q1 to finalize inventory for the holiday season. The work of product testing and finalizing 
+suggestions for offerings mainly falls to the marketing and sales teams. However, sometimes the tasks may need to be completed in advance to unblock another
+team or milestone in future quarters. 
+
+The product and engineering team is working on tasks in Q1 and in Q2 that lead up to the launch of the refreshed online store in Q3. In order to reach that
+milestone, each department needs to complete specific tasks, and the roadmap tracks both individual and project progress toward milestones.
+
+Finally, there's the burndown chart, the most granular of the three tracking methods. A burndown chart measures time against the amount of work done and the
+amount of work remaining. Their main uses are to keep the project team on top of targeted completion dates and to keep the team aware of scope creep as it occurs.
+
+Burndown charts are best suited for projects that require a detailed, broken-down review of each task associated with a project, and they're great for projects
+where finishing on time is the top priority. The y-axis or the vertical axis symbolizes the number of tasks left to complete, and the x-axis or the horizontal
+axis signifies time. Progress gets tracked from the upper left-hand corner of the chart.
+
+As the project goes along, you'll track down, working your way towards zero remaining tasks, and to the right, working your way toward your end date. There's
+typically a dotted line for your expected or projected progress based on the rate your team's expected to close tasks, and a solid line representing your actual
+progress. 
+
+Before you continue on with your project, you'll need to decide which tracker makes the most sense. If you need to communicate milestones to a large team, you
+might choose a roadmap. If you have a project with multiple dependencies, you might choose a Gantt chart. If tracking tasks against your deadline is especially
+important, then the burndown chart might be your best option. And you may even decide to use more than one. Because the tracking method will be determined by the
+type of project you're working on, your resources, and the project scope, you'll probably end up using several types of tracking methods at some point in your
+career. 
+
+In my time at Google, I've regularly combined methods and used a few different types together. For example, using a Gantt chart to scope work at the beginning of
+a project, then switching to a burndown chart in the weeks before a launch to make sure we're good to go. Now you know a bit more about the various types of
+tracking methods, including a roadmap, Gantt chart, and burndown chart. 
