@@ -1,0 +1,69 @@
+The value of project documentation
+
+let's talk about the importance of documentation and how it serves as a form of communication for others to reference and contribute to. I'll share an example
+with you. Once I worked on a project that involved several teams from quality assurance, testing, design, partner engineering, and program managers.
+
+Each team was responsible for their own set of deliverables. To keep all teams on the same page, it was important for everyone to store their plans and reports
+in one centralized place. This allowed any team member to quickly find the documents they needed. Documentation storage and sharing is very important.
+
+Having plans in one place makes communication quicker, easier, and more streamlined because everyone knows where to find any information they need. Just as 
+important is making sure your files are stored with clear labels or organized into folders. 
+
+For example, on my team, we have certain reports stored in one central place. This makes it easier for teams in different countries to find and share their 
+research with each other, which optimizes workflow and reduces duplicate work. Documenting and organizing plans also provides visibility and accountability.
+
+Your project plan is a great example of this. Each task has an owner and a due date. This creates visibility for the members of the project team and
+accountability for the task owner. It's common for members of the team and senior stakeholders to reference your project plan and associated documents when
+they need a refresher on timelines or milestones. 
+
+Having up-to-date plans will help ensure there's no room for misinterpretation or miscommunication. Once you've created a centralized location for your documents,
+it's time to think about managing permissions of your files and folders. If someone isn't a core part of the project team, you might not want them to have full
+access to all of the meeting notes. Instead, summarize the relevant information into a status report for those who need to stay informed of final outcomes but
+don't need all background information. 
+
+There's another big benefit to setting up your project plans and centralizing them in one place: continuity. As the project manager, there could be times when you
+need to suddenly leave the project. Say you got sick, transferred to another project, or needed to take a leave of absence. Another project manager may need to 
+step in, and if all the project information is scattered across unorganized personal notes, it's not very helpful.
+
+But if you documented all the plans in one place, the new project manager can find everything they need and pick up right where you left off. It's always useful 
+to store guides, manuals, meeting notes, plans, and processes all in a centralized place and clearly labeled. You'll also want to make sure the people in relevant
+roles are granted access to those documents. So even if you're not present, the project can carry on.
+
+As project manager, it's your job to ensure that project data can be accessed in the future by others. Documenting your plans and making them available is part
+of a project management best practice called knowledge management. If someone needs to review this project for making decisions or planning similar projects, 
+they should be able to easily access the information they need. 
+
+It also helps set the tone for future projects and future project managers, which can be incredibly helpful if you happen to be the one jumping onto a new 
+project. For example, if an architect is working on a kitchen remodel and they want to make a decision about the design, they can look at the old project plans
+to understand why the decision was made to put the sink in a certain location. Or if a new architect comes in halfway through the remodel, they might want to 
+know why the other architect designed the plumbing a certain way. By looking at the old plans, they can go back and get the information and context they need
+to move forward with more informed decisions.
+
+It's also important to determine what kind of information to share with whom and when. Focus on the key information related to what specific individuals need
+to know. Think about this scenario: a project manager who is working with all the VPs at their company decides to send out daily updates. 
+
+From a communication standpoint, what could be the potential impact of the project manager's decision? Well, since VPs get lots of e-mails, they're not likely
+to read the updates. That ends up being a waste of time for you. Also, when you send a lot of unnecessary information, then it's hard to tell what's really
+important. Figuring out the right information to share is even more important when you're working on projects that have sensitive data.
+
+In those cases, you need to be very careful of how you share information about your project with stakeholders who do not have permissions to view sensitive
+data. For example, financial data or user survey results are often highly sensitive and should never be made available to unauthorized viewers. Here's another
+scenario: let's say your team is working on a high-profile launch of a brand new product, say, an electric car.
+
+Most people don't need to know all of the thinking behind the project or see all the draft versions, but they do need to know what the final design will look
+like. The project is legally sensitive, and you want to avoid leaks and over-sharing classified data. 
+
+If you share the entire project folder with everyone who needs to know only the end result, you risk doing just that: revealing highly sensitive and classified
+data. If this information gets leaked to the wrong people, project plans and company data could be made public, ruining the big launch of the electric car.
+You also risk violating company policy and damaging your reputation as a trustworthy and responsible project manager.
+
+Only share information on a need-to-know basis. It's your job to present the right information at the right time to the right people. Let me show you an example.
+In this sample communication plan, one of the resources is user feedback surveys. This resource contains raw data collected from surveys submitted by Plant Pals
+test users, which means it has personally identifiable information or PII. 
+
+PII is anything that possibly reveal someone's identity, like a screen name, password, phone number, e-mail address, first or last name, anything like that. For
+that reason, only share that resource with the members of the project team who are approved to access this level of information.
+
+Then if anyone else tries to open the document, they will be alerted that they need to request permission to access it. If you need to share results of these
+surveys, those can be presented in a graph, chart, or summarized in a report without any PII included. Then you can share that information with the broader
+team. Now you have a better understanding of how important documentation is to project management. 
