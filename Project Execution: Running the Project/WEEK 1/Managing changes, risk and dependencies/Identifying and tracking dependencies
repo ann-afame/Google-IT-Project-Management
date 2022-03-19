@@ -1,0 +1,47 @@
+Identifying and tracking dependencies
+
+we'll discuss dependencies—both internal and external—how to identify and track them, as well as their importance. There are a few different types of dependencies,
+and we'll discuss a few examples of each one. So what exactly are dependencies? Dependencies are the links that connect one project task to another, and as we
+mentioned, they're often the greatest source of risk to a project. 
+
+Two or more project tasks may have a relationship with one another in which the completion of one task is reliant on the initiation of another task, and vice versa.
+Think of these tasks like a line of dominoes toppling each other over, one by one. If one domino falls, it'll knock the next one over and so on and so on. 
+For instance, a construction company may have a number of jobs across the city.
+
+Each project requires a foreman and a project manager to be chosen before the requirements, timeline, and budget get signed off and the crew is chosen. You
+wouldn't choose a crew and tell them to get to work before the work has been clearly scoped and the contracts were signed. That's an example of an internal 
+dependency, which describes the relationship between two tasks within the same project.
+
+External dependencies, on the other hand, refer to tasks that are reliant on outside factors, like regulatory agencies or other projects. For instance, if a 
+construction company is scheduled to demolish a building site, they'll have to wait until their project is approved by the city. External dependencies aren't 
+always in the project manager's control, but it's important to be aware of them so that the project stays on track.
+
+Mandatory dependencies are tasks that are legally or contractually required. For instance, when that construction company finishes the demolition and starts the
+rebuild, they'll first have to pour a concrete foundation and then have it inspected by the city to ensure it meets their standards before the construction 
+company can continue to build.
+
+Lastly, discretionary dependencies are defined by the project team. These are dependencies that could occur on their own, but the team saw a need to make those 
+dependencies reliant on one another.
+
+For instance, the construction company may be using concrete from a new supplier and want to run a test, pouring a portion of the foundation to get a better 
+estimate of the total amount of product they'll need to complete the foundation, rather than buying too much or too little product up front. The task of pouring
+a portion of the foundation comes first, because the team needed more information before making a decision
+
+. A project manager has to work diligently to incorporate dependency management. Dependency management is the process of managing all of these interrelated tasks
+and resources within the project to ensure that your overall project is completed successfully on time and in budget. 
+
+To pursue effective dependency management, there are four important steps that a project manager can take: proper identification, recording dependencies,
+continuous monitoring and control, and efficient communication. The first step is proper identification. A project manager will have to brainstorm all possible 
+project dependencies with their team and categorize them accordingly. 
+
+Next step is recording dependencies. After all dependencies are identified, a risk register should be created. A risk register is a table or chart that contains
+your list of risks and dependencies.
+
+The risk register should include a description of the dependency, the date, and all activities or tasks that may be impacted by the dependency. Then, a project
+manager will want to maintain continuous monitoring and control. This means you will want to schedule regular meetings to check in on the interrelated tasks,
+staying up-to-date on any progress being made and double checking for changes that will impact other tasks.
+
+Last step is efficient communication. Keeping the project team and stakeholders updated can help resolve dependencies and keep the project going strong.
+
+To recap, we just discussed how to define dependencies, both internal and external, and we learned the importance of managing and tracking dependencies. We also
+discussed the importance of clearly defining dependencies at the project outset, like in our foundation example, and learned about dependency management. 
