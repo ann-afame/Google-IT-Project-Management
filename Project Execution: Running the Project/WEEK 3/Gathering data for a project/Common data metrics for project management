@@ -1,0 +1,189 @@
+Common data metrics for project management
+
+There are many types of project data you can use to determine your team’s progress and efficiency, evaluate the success of your project, and inform project 
+decisions. While you don't need to be a data expert, knowing how to measure, track, and evaluate the right kind of data will help you deliver the most value 
+and impact. 
+
+This reading will recap some of the common types of data from the previous video and introduce a few more key data points that can help you manage projects and 
+work with stakeholders. This reading will also introduce a few ways to interpret the data so that you can reduce risks and make the right decisions about your
+teams and projects.
+
+
+
+The benefits of analyzing data in project management
+
+As a project manager, you can use data daily to make better decisions, solve problems, improve performance and processes, and understand your users. 
+
+For example, if you have data on customer buying patterns, you can identify your best-selling products, and you'll be able to make smarter decisions when placing
+new product orders with your suppliers. This data will also help you better understand your users and their preferences so you can improve your product offerings
+and performance. 
+
+You can also use project team data to help you refine your processes. For example, if your team is experiencing an issue, analyzing data from your project tracker
+about the number of tasks completed, escalations, or internal process problems can help you find the source. This will allow you to make an informed decision 
+about where to focus your efforts to improve processes.
+
+Through critical analysis, application, and execution, data becomes a powerful tool to guide any project in the right direction.
+
+
+
+
+
+
+
+Data, metrics, and analytics
+
+Data is information. It’s the numbers and feedback available to you about different aspects of your project. Metrics are how you measure your data. They define
+the important or specific information (data) you need to know about your project, such as productivity, quality, or engagement. Once you determine your project's 
+metrics, you analyze the data according to those metrics to find patterns and answer questions about your project. This process is called analytics: using data
+to answer questions, discover relationships, and predict unknown outcomes. 
+
+When analyzing data, ask: What do the metrics mean to you? How do you want to use the metrics you've chosen? Can you find patterns to make predictions about your
+project? Can you find ways to improve—or optimize—certain aspects of your project? What lessons can you draw from your project's data?
+
+What follows are some common categories of metrics used in project management and a brief explanation of what they are and how they're useful to a project. 
+Keep in mind that your use of different metrics isn’t limited to these categories. All of your project data is interrelated. The same metric can also provide
+different information when applied to different aspects of your project.
+
+
+
+
+
+
+
+
+Productivity metrics
+
+Productivity metrics typically measure progress and output over time. They allow you to track—or predict—the effectiveness and efficiency of your project team. 
+
+To track your team's productivity over time, analyze the number of tasks or milestones completed in a given time frame. Ask questions like, what percentage of
+tasks are completed on time, and how long do they usually take? Or, if tasks were not completed on time, how much longer than anticipated did it take to complete
+all the tasks?
+
+On-time completion rates can help illustrate to clients and stakeholders how the project is progressing and when they can expect certain deliverables to be ready.
+If your project's completion rates are high, it means you're doing a good job of meeting your completion goals. If the rates are low, it means you're missing
+deadlines. 
+
+Analyzing data can help you make decisions about things like improving or implementing new processes, or re-evaluating how you estimate project scope, complexity,
+and timeline.
+
+Calculating duration (how long something takes) can be useful for setting and evaluating tasks and milestones and determining if you'll meet project deadlines.
+Tracking task duration can improve the accuracy of estimating a project's timeline. This data is broken down into hours, days, weeks, months, and sometimes years. 
+
+You can also analyze current information to predict future outcomes and make projections (or forecasts) about productivity trends, project durations, costs,
+performance or quality. This kind of data empowers you to proactively manage your project and its resources and measure the accuracy of your projections over 
+time. For example, analyzing your team's overall performance or velocity can answer questions such as, is the team completing its tasks and milestones? What
+percentage of tasks is the team finishing on time?
+
+Predicting the future may be impossible, but building a better understanding of it and refining your method for making projections is achievable and valuable.
+
+
+
+
+
+
+Quality metrics
+ 
+Quality metrics relate to achieving acceptable outcomes and can include metrics such as number of changes, issues, and cost variance, all of which affect quality.
+
+Changes refer to differences in any aspect of the project from what was originally planned or required. Issues are problems that may affect task completion—and 
+often result in a change. Track the number of changes and issues to identify patterns, refine processes, and share information about the project with stakeholders.
+
+Cost or budget variance is the difference between the actual amount of money spent on a project and the amount that was budgeted for the project. Over time,
+this data can help you understand how well you're estimating budgets for your projects. A low variance means you've estimated your project budget accurately. 
+A high variance means you should reevaluate your estimation process. You could be under- or over-estimating costs for your budget, or you may not be tracking 
+expenses effectively.
+
+
+
+
+
+
+Happiness and satisfaction
+
+Project managers at Google use a sub-set of metrics called happiness metrics that also relate to quality. These are metrics that relate to different aspects 
+of the user's overall satisfaction with a product or service, like visual appeal, how likely they are to recommend, and ease of use. Happiness metrics can
+generally be captured with a well-designed survey or by tracking revenue generated, customer retention, or product returns. 
+
+Customer satisfaction scores reflect user attitudes, satisfaction, or perceived ease of use. These scores measure how well the project delivered what it set out
+to do and how well it satisfies customer and stakeholder needs. Customer satisfaction scores generally represent a combined metric—the sum of several different
+happiness metrics. For example, on a satisfaction survey, a customer might separately rate a product's appearance as 6/10, ease of use as 7/10, and likeness to 
+recommend or use again as 8/10. The overall customer satisfaction score would then be 7/10. 
+
+You will need to determine what scores are acceptable for your project by discussing with stakeholders what the most important aspects of the project are. 
+
+
+
+
+
+Adoption and engagement
+
+Another set of metrics related to quality are adoption and engagement. Adoption refers to whether or not a product, service or process is accepted and used.
+Engagement refers to the degree to which it is used—the frequency of use, amount of time spent using it, and the range of use. It might help to think of these
+in terms of throwing a party: your adoption metrics would reveal to you whether or not people accepted the invitation and showed up. 
+
+The engagement metrics would tell you how active they were at the party—whether they participated in activities or interacted with other attendees, if they
+invited their friends to come with them, and how long they stayed. 
+
+Adoption metrics for a product or service release, like an app, software program, delivery service, or gym membership, would be similar to the party example.
+However, they can be a bit more complex if you need to track metrics for more than one thing, like whether users make additional purchases or sign up for
+premium features. 
+
+Each project will need to define its own set of successful adoption metrics, such as:
+
+1. Conversion rates
+
+2. Time to value (TTV)
+
+3. Onboarding completion rates
+
+4. Frequency of purchases
+
+5. Providing feedback (rating the product or service)
+
+6. Completing a profile
+
+
+
+
+
+Engagement metrics tell you to what degree a product, service, or process is being used. They reveal the frequency and type of customer interaction and
+participation over time. Engagement metrics might include the daily usage rate of a design feature or tracking orders and customer interactions. 
+
+As a project manager, you're not only concerned with the end user's level of engagement. It's just as important to monitor stakeholder and team member engagement
+as well. Measuring stakeholder participation by tracking the frequency of communication, responses to emails or updates, attendance at meetings, or level of
+input can give you a sense of whether or not stakeholders are finding value in the project. A lack of meaningful engagement could put your project at risk. 
+
+Stakeholders may not be aware of changes or the overall progress of the project, and therefore the final outcome of the project may not meet their expectations. 
+Measuring team member engagement is vital to the success of your project because the more engaged they are, the more productive they are, and the more likely 
+they are to produce high-quality results. 
+
+Ideally, you want your adoption and engagement metrics to increase or to at least meet the goal metrics that were established with stakeholders earlier in the
+project.  If there is no increase, or the metrics drop, then your rates are low and therefore not as successful. Check out the resources below for a more 
+in-depth understanding of how and why to measure adoption and engagement.
+
+
+
+
+
+
+Key takeaway
+Data, metrics and analytics are all important to the success of your project. You'll need to have some familiarity with how to collect and measure data, and
+how to use the data to tell you about different aspects of your project. Depending on the project and its unique goals, some metrics will be more important 
+than others. 
+
+It's your job to make sure you understand which metrics your stakeholders are most interested in and what elements impact your team's ability to deliver quality
+results on time and within budget.
+
+Want to learn more? Check out the following resources:
+
+A Comprehensive Guide To Project Management Metrics
+
+Data-Driven Project Management: The 4 Most Important Data Points to Look At
+
+Project Analytics: Benefits, Challenges and First Steps
+
+Project Analytics to Improve Project and Portfolio Decision Making
+
+Project Management Metrics 
+
+Productivity Metrics: Why They’re Important & 4 Examples
