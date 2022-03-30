@@ -1,0 +1,27 @@
+Dana: Leading positive retrospectives
+
+
+Hi, my name is Dana and I'm a site reliability manager at Google. A retrospective is a process that we go through at the end of every project where it helps us to
+look back and learn about the things that went well, the things that went poorly and where we get lucky. 
+
+It's a way for us to see if we can take the lessons that we have learned from a project, and then reuse them in the next project. Most commonly, we do retrospective 
+at the end of project. 
+
+But then sometimes, if we're in the middle of the project and we find ourselves in the need to make decisions, we would collect a lot of the data that we would 
+collect for a end of project retrospective and do that in the middle of the project. Typical retrospectives have to be positive. 
+
+They have to be blameless, and the goal is to continuously improve ourselves, our team, and our processes. If we're approaching this with the correct mindset, we are
+asking all the people who participated in the projects what are their individual takes on their parts of the project and on the largest scale of the project, and 
+typically, these are the people who will then be working with your next project.
+
+One of the failure modes of retrospectives is when people don't really speak up, and I see that quite often at Sprint retrospectives, where people, sit there and
+don't say anything. Everything is fine. And that might be for two main reasons. One, they don't really care about improving much because it's fine. They tolerate it.
+It's the way that it is.
+
+But the second one is the one that I am more concerned with is the lack of psychological safety when they don't feel like they can actually say what they think and
+have that result be well taken by the people in the room. We need to make sure that our team has a safe space to bring up these topics that we can actually change.
+
+And we can change a lot of things in our day to day, in how projects are being managed, in how communication happens, and what projects we pick and choose from when
+we do planning on an ongoing basis. So making sure that these venues are accessible to our team members kind of assures them that they have a stake at what happens 
+next. And they can be impactful by virtue of what they say in postmortems, because at least in the scope of the team, we will listen, we care, and you can make a 
+difference.
