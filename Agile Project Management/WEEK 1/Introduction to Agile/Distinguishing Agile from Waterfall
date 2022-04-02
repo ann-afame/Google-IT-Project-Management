@@ -1,0 +1,61 @@
+Distinguishing Agile from Waterfall
+
+
+In the last video, I gave you a brief history lesson of Agile and introduced the Agile Manifesto, which states the Agile values and principles. We'll get into the
+Manifesto, values, and principles in more detail coming up. But before we do that, let's spend some more time comparing Agile and Waterfall. I want to really 
+illustrate the key elements of Agile that distinguish it from Waterfall. Then you'll be able to build on this knowledge when we get into the Manifesto later on.
+
+So, as I mentioned in the history lesson, Agile was created in response to the strict linear process of Waterfall. While Waterfall aims for predictability and
+tries to avoid change, Agile embraces the reality that the world, markets, and users are uncertain and unpredictable.
+
+For example, your customer might say they want feature A, but when the final result is delivered, they realize they actually wanted feature B.
+
+Agile aims to solve that problem by getting customer feedback more quickly to make sure that the team is building what the customer really wants. Part of working
+with an Agile mindset is always seeking out ways to work more efficiently. We do this by finding ways to streamline processes without reducing product quality or
+value. 
+
+The key to streamlining is to reduce waste. For example, unnecessary documentation is a form of waste. Another form of waste is spending weeks or months working on
+a feature, only to find out that the customers, who could also be users or stakeholders, don't like the feature after all.
+
+You could reduce or eliminate both of these forms of waste by increasing team and stakeholder collaboration. More collaboration means less documentation and earlier
+feedback about the product. Let's consider some more differences between Waterfall and Agile.
+
+Three important aspects of a project are requirements, documentation, and deliverables. Requirements are conditions that must be met or tasks that must be finished 
+to ensure the successful completion of the project.
+
+Think of these as the set of criteria that fall within the scope of your project, or a list of specifications that must be met.
+
+In a Waterfall project, you'll probably need a product requirements document, which lists the scope and requirements of the project. You need to have several
+formally approved project plans, and you might have a team of people whose job it is just to write and approve these plans. You might also set up a change 
+control board—a formal and rigorous process to manage any changes to requirements. 
+
+All this is designed to protect the team from building something that the client or stakeholders don't want and aims to minimize any changes that could lead to
+scope creep. Formally-approved project plans work well when the desired end product is known and understood. An example of this might be leading a project that
+has clear requirements and goals based on mandated regulation. 
+
+But if that's not the case, a Waterfall team risks building out an entire deliverable only to find out later that the customer doesn't like the final result. 
+In Agile, requirements are treated as more dynamic and expected to change as the team receives feedback and new information. There's usually an initial set of
+requirements or feature ideas when the project kicks off, but that list of requirements and features is continuously growing and changing throughout the project.
+
+The team works with stakeholders to prioritize the requirements, always moving the most urgent or valuable items to the top of the list. Then, the team goes down
+the list, working on the requirements in iterations. By going down the list, the team is able to get feedback on their work quickly and frequently. At the end of
+each iteration, the team gets feedback and can make necessary adjustments to the requirements before continuing on.
+
+Okay, the second aspect is documentation. All projects require documentation, project plans, stakeholder maps, schedules, charters, contracts—the list goes on and 
+on. Waterfall projects use lots of documentation because there are lots of handoffs between phases and handoffs among different teams within the project.
+
+Also, because the work is done in bigger chunks, you'll need to leave behind more pieces of documentation at each stage in the project. But in Agile, there's an
+emphasis on real- time, person-to-person conversations. This doesn't mean that there's zero documentation; it's just in a different form. Instead of big, formal
+documents with a rigorous change management and approval process, there are shorter documents that have just enough detail to achieve their purpose. 
+
+These documents are much more focused on what the reader needs to know to get the job done and are written only as needed. Finally, let's explore deliverables.
+
+A deliverable is a tangible outcome from a project. In Waterfall projects, you often don't release the deliverable until the very end. The final product release
+feels like a big event, major announcement, lots of hoopla, and is often super fun and exciting. Agile is just as exciting, but has smaller more frequent releases.
+
+So each release has a less formal celebration, but it builds up to be just as exciting. When there's lots of uncertainty in a project, such as in a new emerging 
+industry or market, the steady release of project deliverables enables an Agile team to get feedback and learn as they go.
+
+Without regular feedback, the team could end up delivering something that the customer doesn't want. So, now you have a better idea of some key elements of Agile
+that distinguish it from Waterfall. Three differences between these two project management approaches are the way each one deals with requirements, documentation,
+and deliverables.
