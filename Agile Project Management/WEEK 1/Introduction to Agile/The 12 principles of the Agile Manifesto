@@ -1,0 +1,66 @@
+The 12 principles of the Agile Manifesto
+
+
+I'm going to tell you about the 12 principles of Agile. These principles reinforce the message of the four values and provide some additional clarity. There's
+definitely a benefit in studying each of these independently, and I've provided supplemental resources for you to study on your own. 
+
+For this course, I've grouped the 12 principles into four themes. These are different from the four values. The four themes of the Agile principles are: Value 
+delivery, or how do Agile teams deliver highly valuable products to their customers? Business collaboration, or how do Agile teams collaborate with their business
+partners and stakeholders to create business value to the organization and their users? Team culture, or how does a team create and maintain the right interpersonal
+and team dynamics to deliver value for the customers and the business? And retrospectives, or how does the project learn to continuously increase performance of an
+organization and business? As I said, I've grouped each of the 12 principles under these themes so they're easier to learn and remember. Let's dive in. The first 
+theme is value delivery and includes five principals. Take a few seconds to review them.
+
+This theme is about delivering the work as quickly as possible. And remember why? So that we can get feedback and mitigate the risk that we spend too much time
+building the wrong thing. Also, no one gets any value from your work, including your company, until you deliver it. So the longer you take to deliver, the longer 
+you wait to get revenue, and maybe the more time the competition has to get ahead of you. These may look very software-oriented, but if you replace the word 
+"software" with "deliverables" or "solutions," these can apply to almost any project. For example: deliver working solutions frequently. 
+
+See? The value theme is also about simplicity. How much time do you think it takes engineers to add all the buttons and features to products that ultimately end
+up confusing the user? Simplicity allows a team to focus and work on the things that matter the most. An example of this theme in action might be prioritizing
+getting feedback on a product prototype so you know which features really matter, or it might mean ensuring the team only works on approved features and 
+doesn't spend time on unnecessary ones. 
+
+Another example might be reserving ten percent of the team's time to work on bug fixing or polishing a process, which should help you go faster in future iterations.
+The next theme is business collaboration and includes two more principles.
+
+Quick note: one of the principles uses the term "business people" to refer to those involved with things like sales, marketing, customer support, and account 
+management.
+
+We'll use the term "developers" to refer to those who are involved with making and creating products. Ok, so we discussed customer collaboration during the values 
+discussion, and here we are again. Collaborating with your customers helps the team get critical business information immediately by allowing them to adjust and
+adapt to any new information instantly. No matter if it's realized early or late in the project, customers will get what they want to achieve their business goals.
+
+You can achieve collaboration by making sure that business people work near the development team, ideally in the same office or virtual space. If that's not 
+possible, maybe co-locating a day a week, encouraging instant messaging, or blocking off time on your team calendars each day or week to collaborate. 
+
+The goal is to enable easy access between business people and developers. Another example might be how you handle feedback and changes in priorities. Rather than
+trying to keep the customer away from developers due to concerns about scope creep, create a weekly huddle where customers and business people can explore 
+feedback and new ideas with the team. 
+
+This could be a great way to discover that one really valuable feature is super easy to build, whereas another feature the users thought would be easy is actually
+really hard. Our third theme is team dynamics and culture and includes four more principles.
+
+Remember, the first Agile value stresses individuals and interactions over processes and tools. Notice that the principles in this theme reflect that value. This
+theme emphasizes creating an effective team culture that is inclusive, supportive, and empowering. 
+
+Having an effective team culture is essential to a project's success. These principles really boil down to making sure your team is motivated to do the right thing,
+feels trusted to do the right thing, has the resources and space to work closely together on their goals, and works at a sustainable pace. 
+
+An example of emphasizing effective team culture would be to ask the team what kind of equipment they need to do their job and then giving them those tools. 
+Another manifestation of this theme is letting teams write their own processes and templates rather than forcing them to use something from headquarters.
+
+Teams work best when they feel like their input is valued, so you, as the project manager, should make space for your team to engage and actively contribute to 
+the team culture. You'll build trust and empower them to approach their work in a way that suits them best, which in turn will allow them to work more productively.
+
+Finally, the fourth theme is retrospectives and continuous learning. The last principle stands alone in this theme, so I'll read it aloud. At regular intervals,
+the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. This one sits on its own because I want to draw attention to
+how important it is for Agile teams to continuously learn and adapt to what's working and what's not working for them. 
+
+Teams should always be figuring out better ways to work, and it's really valuable to set this time aside after each iteration, to focus entirely on how to improve.
+In these sessions, the team can step back and consider questions like: How is the team doing? Are the customers happy? Are there processes we could optimize? Are
+our tools working for us? Are we following the values? Are we accumulating any debt? And by "debt" I mean processes or technology that slows us down. 
+
+We've officially finished discussing the Agile Manifesto. It's amazing to think that these four values and 12 principles are the foundations of so many advances
+in project management. I'll come back to these values and principles throughout the rest of this course to demonstrate how these connect to the day-to-day 
+activities of an Agile project. 
