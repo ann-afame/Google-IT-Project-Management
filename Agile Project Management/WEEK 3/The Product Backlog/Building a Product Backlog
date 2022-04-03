@@ -1,0 +1,54 @@
+Building a Product Backlog
+
+
+In this program, we've introduced you to lots of project management artifacts, such as project plans, statements of work, RACI charts, and more. Now, we'll review
+an important artifact of the Scrum framework, the Product Backlog. 
+
+In an earlier video, we defined the Product Backlog as the single authoritative source for things that a team works on. It contains all of the features, requirements,
+and activities associated with deliverables to achieve the goal of the project. 
+
+The traditional non-Agile project management equivalent would be the set of project requirements. There are three key features of a Product Backlog. First, the 
+Product Backlog is a living artifact, meaning that items are added to the Backlog at any time. The Product Backlog evolves throughout the whole life cycle of the
+project and serves as a central guide for the team to know what to work on next.
+
+Second, the Product Backlog is owned and adjusted by the product owner. And finally, the Product Backlog is always a prioritized list of features. So when there's
+new information or new features, those are added to the Backlog in order of importance. The items at the very top of the list are very specific and well-defined,
+leaving the more vague items for the bottom of the list. 
+
+Remember, the Product Backlog is the guide and roadmap of your product. It's the central artifact in Scrum, where all possible ideas, deliverables, features, or
+tasks are captured for the team to work on. Because the backlog is so central, there are a few best practices and pieces of data to capture when working with 
+Product Backlogs. There's the description, the value, the order, and the estimate. Let's go through how to build a sample Backlog with these best practices in mind.
+
+First, there's the item description. The item description is exactly what it sounds like, it describes an item. When you're writing an item description, it's a good
+idea to be really clear when adding Product Backlog items so the details are encouraged. For instance, on Office Green's new project, Virtual Verde, here's an
+example of an item description: as a Virtual Verde client, I plan to grow my choice of vegetables while I work from home in my New York City apartment. 
+
+This item description includes essential details, such as an action and a location from the perspective of the customer. This ensures that the Development Team has
+enough information to meet the user's needs. Next up, we have the value field. This is the field that tells us how much business value the item delivers to the 
+customers, to the team, or to the users. 
+
+How to indicate value is a choice the Scrum Team should make together. I like to set value by using dollar signs, ranging from one dollar sign for low value, all
+the way up to four dollar signs for high, added business value. 
+
+Next, we have to add in an estimate. An estimate is how much effort the Scrum Team thinks an item will take to complete. We'll explore how to do relative effort
+estimation coming up. But for now, it's important to know that the relative effort estimate is captured in each Backlog item.
+
+This field in the Backlog is owned by the Development Team. The next attribute of each Backlog item is the order. As we mentioned, the Backlog should always be
+prioritized. Both the estimate and value fields we just discussed help the Product Owner figure out where to place an item in the Backlog's order of hierarchy.
+
+A Product Owner may ask themselves, how important is this Backlog item compared to all the other items? Product Backlogs order items from highest to lowest 
+priority. This is called a stacked rank. Ordering items this way allows teams to operate more efficiently. 
+
+For example, our Virtual Verde market research team learned that people who work from home would much rather have plants that are easy to take care of, versus 
+a more high-maintenance plant like orchids. Then, the team prioritizes the simple and easy plants on the Backlog, like succulents, higher than the orchids.
+So their Product Backlog lists one: succulents, two: orchids. But say, for example, Support gets an email from a user who says they'd love to have bonsai trees, 
+which are also hard to take care of. Where do we put it in the order, before orchids or after? The Product Owner does some research and decides that the team will
+do orchids first because they find that many more users have requested orchids versus bonsai trees. 
+
+The Product Owner gives orchids a two dollar sign value rating, bonsai trees a one dollar sign value rating, and puts bonsai trees last on their list. Awesome, 
+let's move on. When creating Backlog items, the goal is to include as much as you can while not stressing about the unknowns too much. 
+
+For example, the Product Owner in Virtual Verde doesn't know yet how much bonsai trees cost compared to succulents, so they don't know if they serve a high-end 
+market or a low-end market. They document an assumption in the bonsai tree description and move on. They can study that in more detail when it is higher on the
+priority list. Now you know a bit more about defining the Product Backlog and who owns it. We also discussed how the various roles work with the Product Backlog,
+and we can identify and describe each field in a Product Backlog. 
