@@ -1,0 +1,59 @@
+Create a product backlog in Asana
+
+
+Workers across industries lose countless hours to work about work: the time wasted on searching for information, switching between apps and holding status meetings.
+Work management tools like Asana are designed to reduce wasted time by empowering project managers to focus on project planning, team alignment, and resource 
+allocation.
+
+Many organizations use these types of tools to manage everything from simple projects with small teams, to complex projects with multiple stakeholders.
+The thing I love most about Asana is it gives me complete peace of mind that nothing is going to fall through the cracks. I can keep track of all my own to-dos in 
+one place and my teammates and I are always clear about who's responsible for what, and when it needs to get done.
+
+I'll be popping in throughout this course to demo common project management activities using Asana. In this video, I'll demonstrate how to build the same Product
+Backlog for Virtual Verde that you just created. This time, you'll use projects, tasks, sub tasks, and custom fields in Asana.
+
+I'll show you an example of each step, so you know exactly how it's done. And in the activity that follows, we'll provide you with a detailed overview and 
+instructions for each step, so you can try it out in Asana yourself. Ready? Let's get started.
+
+First things first, I'll log into my Asana account. Next, I'll create a project for my Product Backlog using the sprint planning template in Asana. Asana has lots 
+of helpful templates for all kinds of projects, so you can explore some other options on your own. Next, I'll fill in the project details. In this case, I'm going 
+to update the name to Virtual Verde and create the project.
+
+I don't need to update anything else for this activity, but if you'd like to, you can select options for your team.
+
+Once you've created the project, you'll be directed to the board view, where you can start adding project details.
+
+Board view can help you track your team Sprint plans similar to using a Kanban board. Most teams make projects at the beginning of each Sprint and then track their
+work through each stage, to make sure they know where their Sprint work stands. In this template, those stages are represented by sections which appear as column
+headers in the board view.
+
+You'll notice that many of the Asana templates, like this Sprint planning one have tasks already added. For the purposes of this demo I'll remove these but you 
+can review on your own if you want to learn more about how to use this template. Now that I've created my Product Backlog project, I'm going to enter user story 
+titles by adding tasks to the Backlog column for the Virtual Verde project.
+
+My first user story title is "low-maintenance options," then "plant care tools" and I'll do one more, "expert help and advice."
+
+Great, all set. Here's my completed list of user story titles.
+
+Next, I'm going to add the user stories. To do that, I'll need to open the task detailed pane and update the task description with the story.
+
+Remember creating user stories in the last activity? I'll add in one of those as an example here under "description."
+
+I'll choose this user story: As a potential customer, I want to find out which plants are easiest to care for so that I can purchase low-maintenance options.
+
+Next, I need to add acceptance criteria for the user story. Since you entered your user story titles as tasks, you'll add your acceptance criteria as sub tasks.
+For the first acceptance criteria, I'll add "ability to sort plants by beginner, intermediate and advanced." For the next criteria, "ability to search for plants 
+with similar care needs."
+
+When I'm done adding sub tasks, I'll close the detailed pane so I can access all the tasks in the Backlog. As a quick tip, I can expand the list of sub tasks and 
+view my acceptance criteria without opening the details pane. And last but not least for this activity, I'm going to add a custom field for the epic title. Custom
+fields let you add additional details to the tasks in a project. You can think of them like tags or columns in a spreadsheet. For this activity, I'll choose a drop
+down field and use "epic" as the field title and add "plant care initiatives" as the first option.
+
+I only need one option for this activity, so I'll delete option two. And finish creating the field. Since all of these stories are part of the same epic, I can 
+update the epic for all the user stories at once.
+
+Now that I've added all these project details, I can check the completed task card which shows me the user story acceptance criteria and epic all in one place. 
+Once I finished adding in the acceptance criteria for all of my user stories, my Asana board appears like this. I have successfully created my Product Backlog fo
+r the Virtual Verde project. Now it's your turn. Head to the next course item where you'll find detailed instructions to complete this activity in Asana yourself.
+As you continue to progress through the course, you'll have the opportunity to complete more project actions in Asana.
