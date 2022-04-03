@@ -1,0 +1,32 @@
+Create and manage Sprints in Asana
+
+
+I'll demonstrate how to create and manage sprints in Asana. I'll take you through an example of each step so you know exactly how it's done. By planning Sprints
+in Asana, teams can have full clarity on Sprint plans, milestones, launch dates and Backlog, with work efforts and communication together in one place. Then, in 
+the activity that follows we'll provide you with detailed instructions so you can try it out yourself. Let's get started.
+
+I'll start by opening the Virtual Verde Backlog I created in the previous activity, adding estimation in Asana. In this activity we'll be prioritizing and
+scheduling each item in the Backlog to an upcoming Sprint. So I'll add a custom field for Sprints, which will allow me to easily find out which Sprint each 
+task is scheduled for.
+
+I'll add "Sprint" to the field title and confirm the field type as drop down.
+
+Then I'll change option one to "Current Sprint" and option two to "Next Sprint."
+
+Now I'm going to assign items to the Sprint Backlog for the first two Sprints. For this step, I recommend switching over to list view, since it's easier to see 
+all your tasks at once. I'll assign items to the current Sprint or next Sprint, using the drop downs in the Sprint column.
+
+And then I'll re-sort the project by Sprint, to group my Sprint items together. By default, Asana will sort my tasks within the sections I've created.
+
+If I disable sorting within sections, I'll see my tasks grouped by the custom field that I'm using to sort. In this case, by Sprint. I'll also see a sum of any
+numeric custom fields at the bottom of each group. This makes it easy to keep track of how many points I've assigned to each Sprint so I make sure I don't exceed 
+my team's capacity.
+
+And finally, I'll add due dates for each task.
+
+There's so much more you can do with Asana for Sprint planning. You can customize your project details, plan your Sprint with a timeline, manage Sprint workloads 
+and monitor Sprint project progress. Sprint planning is just one of the ways Asana can help you manage team projects and tasks. From hitting goals and deadlines
+to tracking progress and troubleshooting, automating and streamlining your work, and tying all your work streams together in one place, Asana has lots of resources
+to make sure all your projects are set up for success. 
+
+Now it's your turn, head to the next course item where you'll find detailed instructions to complete this activity in Asana yourself.
