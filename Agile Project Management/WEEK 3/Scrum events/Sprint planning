@@ -1,0 +1,46 @@
+Sprint planning
+
+We learned that a Sprint is one of five Scrum events and creates the frame around all other Scrum events. Next up is Sprint Planning, the first event within the
+Sprint that sets your team up for success for the next one to four weeks, depending on the length you chose. For Sprint Planning, the entire Scrum team comes 
+together and meets to confirm how much capacity, meaning time and people, are available during this Sprint, and then they identify what items from the Backlog
+will be done during the Sprint. This becomes the Sprint Backlog, and ultimately, the Sprint goal. 
+
+This is a time for the Scrum Master to facilitate team communication and answer the following questions throughout the event: Who is available during this Sprint?
+
+Are there any vacations or conflicts that we should know about?
+
+What has been our average velocity, meaning how many points or Backlog items have we been able to complete in a single Sprint in the past? What can and should
+be accomplished by the team in this upcoming Sprint?
+
+What is the ultimate Sprint goal? How will the work get done?
+
+Throughout the Sprint, who is responsible for what tasks? We've discussed Sprint lengths and story sizes. So let's explore the meaning of Definition of Done.
+Definition of Done refers to an agreed upon set of items that must be completed before our user story or Backlog item can be considered complete.
+
+Some things that may be within your Definition of Done are the code or solution itself is reviewed by an independent peer group. The product or unit passes all 
+testing requirements, which could include security or performance testing. 
+
+Documentation is completed. All user story acceptance criteria specified by the product owner is met. And finally, the product owner accepts the user story. This
+list isn't comprehensive, and the team should determine what should be on this list and improve it as needed. 
+
+A key deliverable of the Sprint Planning event is the Sprint Backlog. The Sprint Backlog is the set of product Backlog items that are identified for completion 
+during the upcoming Sprint. In other words, the Sprint Backlog is a subset of items from the Product Backlog that you'll aim to finish during that particular
+Sprint.
+
+For example, Virtual Verde's product Backlog might have 50 Backlog items, and Virtual Verde has created four week Sprints that are named by month: May Sprint, 
+June Sprint, July Sprint, and so on. For the May Sprint, the team has determined that they can complete the top five of those items based on the capacity of
+the team for May and the size of the effort of those items. Those five items now make up the Sprint Backlog.
+
+The Sprint goal is the overarching objective that the team aims to achieve and helps the team understand the why of the Sprint. This should be taken from a
+big picture view of the items on the Sprint Backlog.
+
+The benefit of having a bigger Sprint goal identified is that it helps the team focus on a broader team objective, rather than putting them into separate 
+work streams. For example, let's say Virtual Verde has identified these five items as the Sprint Backlog for May. Virtual Verde users can purchase bonsai trees.
+Virtual Verde users can access an online discussion forum about home office decor. Virtual Verde vendor management team can add audit results for vendors.
+
+Virtual Verde users can use a coupon to purchase home office accessories. Virtual Verde customer support can connect products to support tickets. So the Sprint
+goal is to provide a comprehensive experience to the user who wishes to install a bonsai tree in their home office. All of these Backlog items can be connected 
+to this Sprint goal in some way. 
+
+For example, there is a new coupon for bonsai, the vendors are audited for bonsai tree quality, and so on. To recap, we just learned that Sprint Planning will 
+result in a well-defined and estimated Sprint Backlog, as well as a Sprint goal to keep the team motivated towards that final achievement. 
