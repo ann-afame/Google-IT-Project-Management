@@ -1,0 +1,89 @@
+Introduction to Kanban, XP, and Lean
+
+
+There are many popular agile methodologies that are still around from the 90s, when Agile was invented. These methodologies share agile values and principles but
+have very specific practices and applications.
+
+In this video, I'll touch on a few of the most popular ones besides scrum, which we covered in the last video. First one of my personal favorites is Kanban. This is
+a methodology that can be applied in a very simple way, or it can be used to drive the entire project. The Kanban name comes from two japanese words.
+
+"Kan" meaning "sign," and "ban" meaning "board." You may have already used a Kanban board because it's the most famous feature adopted by the majority of Agile
+enthusiasts. The reason Kanban is so popular is that it provides transparent visual feedback to everyone who might be interested about the status of work in progress.
+
+Kanban boards or charts display the progress of a project as to do in progress and done. Also, just so, there are software tools that create digital Kanban boards 
+for you. The Kanban method ensures that the project team only accepts a sustainable amount of in progress work. This means the amount of in progress tasks are 
+limited to what the team can actually handle during a certain amount of time. 
+
+This is called the work-in- progress limit, or WIP limit. The WIP limit is decided on by the team. This is a reflection of agile in that teams are both self 
+organizing and empowered, and they're operating at a sustainable pace. The team members add new tasks to be completed only after they finished their previous task 
+and are below the WIP limit. 
+
+This approach means that once a task is started to be worked on, it becomes a priority for the whole team to get it to done. By focusing on less work, the work 
+gets done faster. This goal of trying to maximize efficiency is called flow, and is a core principle of Kanban. 
+
+Another Agile methodology is extreme programming or XP. It was named that because it took traditional software development activities to an extreme level. But I
+also believe it's because it emerged at the same time as extreme sports like snowboarding. XP is another one of my personal favorites.
+
+It was the first Agile methodology I was introduced to back in my days working on some of the original cell phones at Qualcomm: the company behind the radio
+technology we all use in our phones today. 
+
+Since XP came out of the software industry, it refers to specific software terms and activities like coding and programming, but the XP method can be used in lots
+of non software environments as well. The XP methodology aims to improve product quality and the ability to respond to changing customer needs. It does this by 
+taking best practices for the development process to extreme levels.
+
+For example, one best practice is the idea of test first development. This means testing out parts of the product before building them in full. Often only the larger
+features get tested, which is still good but means some details might get missed. XP takes this practice to the extreme by finding ways to test more and smaller 
+features of the product to get even more feedback. 
+
+There are four basic activities that are performed during the product development process that the XP method tries to enhance. Designing: in software development,
+this is where you write a design document describing the parts of the code or instructions for the product and how it will function.
+
+In non-software environments. This would be describing the various pieces and parts for whatever it is you're trying to deliver. For example, if you're delivering
+an ad campaign, maybe the main pieces are the artwork, the copy and the ad by plan. XP wants to ensure that all of the pieces of the product will fit together
+properly. So it stresses simplicity. Start with a simple design to meet the most basic and important requirements.
+
+Simple designs also take less time to complete. Once the basic model is designed and has been tested, then you can think about adding on other features.
+Coding: code is the language that's used to write software programs. It's the instructions that tell the computer what to do. In software development writing 
+clear code is crucial. Just like clear writing is crucial in any situation where you want to be understood.
+
+XP demands clear and concise code, so that others can easily read and understand the program. This makes it easier to troubleshoot problems and come up with 
+solutions. In non software environments, code would be similar to writing clear and concise processes or instructions for how to build or use your product.
+Testing: like I described earlier means checking the product for flaws so they don't end up in the final product. 
+
+In XP, more is better. So if a little bit of testing can eliminate a few flaws, lots of testing will eliminate even more. The goal is to test for and eliminate
+any flaws in a feature before building it and continuing on. Testing also means checking to make sure the product features, meet the customer's requirements. 
+Which leads us to listening. Which is about listening to the customer and ensuring that the requirements are integrated into the product. This relates to agile in 
+the way that it values customer collaboration, frequent communication and regular feedback.
+
+XP features some other innovative practices that are used across many agile teams, regardless of the specific methodology being used. First, there's pair 
+programming, which is when two team members Work together at the same time on one task. Usually this is done in the same physical location, but with the use of 
+digital collaboration tools, this can happen remotely, too. Another practice is continuous integration and continuous refactoring. 
+
+This is the practice of merging product changes into a shared version several times a day in order to get quick feedback on the quality of the code or product. 
+Then there's avoid big design up front. This relates to designing and means the design should be just enough to get started and should be continuously improved as 
+the product evolves. 
+
+And finally, there's write tests, not requirements. This means that instead of writing a product requirements document and then later writing a test plan. Your test
+plan can serve two purposes by A. telling the team what to build, and B. comparing what they built to what was supposed to be built. Okay, so we've got Scrum,
+Kanban and XP. 
+
+Let's explore one more. For those of you who took the earlier courses in this program, you already learned a little bit about this final methodology, called Lean.
+In the context of Lean 6 Sigma. Lean methodology consists of five principles that serve as a recipe for improving project outcomes.
+
+They are: define value, map value stream, create flow, establish pull and pursue perfection. Let's break these down. Define value means identifying and focusing on
+what the customer wants and including the customer in the process.
+
+A product's value is the sum of all the things the customer wants. Map value stream, means mapping out the process or stream, including all the steps involved in
+producing value for the customer. It also means challenging any steps that can be considered wasteful or unnecessary. Create flow, means ensuring the product flows
+through the value stream efficiently, continuing to eliminate waste throughout the cycle. 
+
+Work to remove interruptions, delays and barriers to the work stream. Establish pull: think of asking someone to pull something off the shelf. You want to make 
+sure the customer is pulling on the product or asking for it throughout the value stream. They might pull or ask for features and incremental deliveries. 
+
+The idea is to make your process as smooth as possible so that the customer can pull on the product at any time and you'll be able to present what you've been
+working on or add a feature request. Finally, there's pursue perfection. This means pushing your team to continuously improve the first four process steps. 
+
+So how does this relate to Agile? Well, Agile emerged after Lean, and the inventors of Agile were inspired to apply Lean manufacturing principles to software
+development. Like Agile, Lean is a set of principles and a value system. Many of the differences are really just in the wording. Awesome, now we know more about
+some other methodologies that are considered Agile. There are several more, but the reality is that many teams evolve and blend methods to create the tools and
+processes that work best for them.
