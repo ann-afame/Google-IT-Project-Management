@@ -1,0 +1,52 @@
+Velocity and burndown charts
+
+In this video, we'll explore two very important concepts that allow a Scrum Team to manage their work as they progress through a Sprint and the entire Product 
+Backlog. These two concepts are burndown charts and velocity. Let's start with what a burndown chart's purpose is and how a Scrum Team uses it. 
+
+A burndown chart measures time against the amount of work done and the amount of work remaining. The goal of using a burndown chart is to keep the team aware of how 
+they're doing against their overall goals. 
+
+In a Scrum Team, burndown charts reflect how the team is doing with completing user stories during the Sprint. The Scrum Master will review the burndown chart, 
+sometimes daily, to examine if the team will hit their goals or not. There are some simple math and numbers here. Now is a good time to mention what to do if your
+team is using T-shirt sizes rather than story points. 
+
+In that case, simply map the sizes to a number and use that number for the burndown and velocity calculations. For example, maybe an extra small is one point, a 
+small is two points, a medium is five, a large is eight, and so on. Here's an example, let's imagine our Virtual Verde team's Sprints are four weeks long, which will
+count as 20 business days. 
+
+In their July Sprint, the Sprint Backlog had stories that added up to a total of 200 points to be completed. If you assumed an even burn of points over the business
+days, you'd expect 10 points to be burned each day. By day five in their Sprint, 22 points had been burned or completed. It's only 25 percent of their Sprint, so
+maybe things are on track. By day ten, 45 points had been completed. We should have been approximately halfway done by now, which would be 100 points.
+
+According to the burndown chart, we're running late, according to our Sprint goal. Now this isn't the time to panic and stress out the team. At this point, as Scrum
+Master, you should already be discussing with your team to find out how you can help and unblock them. By day 15, the burndown is 140 points. Phew! The team is back
+to humming along. By day 20, the burndown is 188 points completed. Great job. Let's discuss what happened in the retrospective. 
+
+In Scrum, there's a term for how many points a team burns down in a Sprint on average. That term is velocity. In other words, velocity is a measure of how many points
+a team burns down during a single Sprint on average.
+
+When the team is conducting Sprint Planning, they're using their average velocity over at least three Sprints to determine how many items they can safely add to
+their Sprint Backlog. There are a few things worth noting when it comes to calculating velocity. First, there's no such thing as a good velocity or bad velocity.
+
+Velocity is simply what the team has historically been able to achieve in a predetermined timebox. The next thing is that each team will have a different velocity,
+especially since each team decides their own point system calibration. It's impossible to compare your team's velocity to another team's.
+
+For example, I'm currently on a team of three people and we're burning down 70 points in a one-week Sprint, so our velocity is 70. But on a previous five-person team,
+our velocity for a two-week Sprint was only a 120 points. Was one team better or worse than the other? Nope. Just different. Once you have a stable velocity and a 
+refined Backlog with prioritization and estimates, this unlocks an incredibly valuable superpower.
+
+You can now tell your stakeholders and sponsors two important things. You can tell them approximately how long it will take to complete the entire Product Backlog
+and how much of your Backlog will be completed by a particular time. 
+
+This ability to confidently predict when things can get done is one of the most powerful tools in Agile and Scrum, in my opinion. Let's imagine that our Virtual
+Verde team has averaged 200 points in each monthly Sprint for the last three months. The team knows they have 1500 points left in their Product Backlog.
+They can now can say that it will take them approximately seven or eight Sprints to complete the entire Product Backlog. What if it's July and the team wants to
+know what will be available by January first? No problem—that's five months away. Just go down the Backlog from the top and draw a line when you hit 1000 points. 
+That's a pretty confident estimate based on the past performance of the team. Pretty powerful. If you want to pull in the dates, you can use this information to
+decide to add people to the team and increase velocity, rearrange the priorities, or make other key project decisions.
+
+On any given team, it can take multiple Sprints to reach a stable velocity, and that's perfectly normal. As the team gets used to estimating and working together,
+the velocity should begin to stabilize. Now you know how to define velocity, velocity trends, and burndown charts.
+
+You also learned a bit about how an Agile team reaches a stable velocity and what that entails. Using these tools is essential to any high-performing Scrum Team.
+They are powerful means to achieve execution predictability.
