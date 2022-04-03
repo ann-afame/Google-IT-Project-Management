@@ -1,0 +1,28 @@
+Adding estimation in Asana
+
+
+In this video I'll, demonstrate how to add effort estimates in Asana, just like you did for the Virtual Verde Backlog spreadsheet. I'll take you through an example 
+of each step so you know exactly how it's done. Then, in the activity that follows, we'll provide you with a detailed overview and instructions for each step so
+you can try it out in Asana yourself.
+
+Ready to get started? Let's go. This time I'm going to create the Virtual Verde project using an existing spreadsheet, and Asana's CSV importer tool to input the
+project details. A CSV file uses a comma to separate values. That's where the CSV name comes from. This file holds a spreadsheet's data.
+
+So the CSV importer tool is a great option to move your workflow out of a spreadsheet software, like Excel or Google Sheets, directly to Asana. That way you can get
+started right away on any project. I've already downloaded the Adding Estimation Spreadsheet from the last activity as a CSV file.
+
+And now I'm going to upload that here. I'm going to import my spreadsheet, that's the CSV file. I'll name the project Virtual Verde Backlog and select a CSV file to
+import. When the preview appears, I'll go to my project. By default, the Backlog appears in list view.
+
+Asana automatically generated some custom fields for me from the spreadsheet I was using. Epic, value, and estimate. I'll add effort estimations to the empty fields
+in the estimate column. I'll add eight for low maintenance options, 13 for plant care tools, and eight for expert help and advice. 
+
+Next, I'm going to sort the user stories. Depending on how you want to organize the stories in your Backlog, you might choose to sort by any of the custom fields. 
+For now, I'm going to sort by value and save as default. Now that my stories are organized, I'll switch to board view, to review the Backlog and save this as my 
+default view.
+
+The beauty of using a tool like Asana to manage a Backlog is how quickly and easily you can convert your plans into action. You can give each user story an assignee,
+and a due date to make it clear who is responsible for what, and when it needs to get done. Then, keep everyone on the same page by publishing weekly status updates
+and highlighting accomplishments, progress, and blockers. 
+
+Now it's your turn. Head to the next course item where you'll find detailed instructions to complete this activity in Asana yourself. 
