@@ -1,0 +1,75 @@
+Backlog refinement and effort estimation
+
+
+We've been exploring everything there is to know about a Product Backlog. Although the product owner owns or is in charge of the data in the Backlog, the team
+must work together to keep the living document up to date.
+
+In this video, we'll discuss how to do that through a process called Backlog refinement. Backlog refinement refers to the act of keeping the Backlog described, 
+estimated and prioritized, so that the scrum team can operate effectively. 
+
+After the product owner has added the Backlog items with a description and a value statement, they do Backlog refinement. It is when the Product Owner and some or
+all of the Scrum team review the Backlog to ensure: it contains the appropriate items and that nothing new is needed or nothing needs to be removed, that the items
+are prioritized by the Product Owner, (this is also called setting the order field) that the items at the top of the Backlog are ready for delivery with clear
+acceptance criteria, and that the Backlog items include estimates, or an informed assessment about how much work a particular Backlog item will be. 
+
+Let's discuss estimates since their crucial in Backlog refinement. We add estimates to Backlog items to inform our planning practices about how much effort it will
+be to finish each item or user story. Through estimation, we can find out how much work we have ahead of us. It can be difficult to estimate the amount of time it
+takes to complete a task.
+
+More often than not, we human beings tend to underestimate the time until completion. When it comes to big projects, this effect can be multiplied many times and can
+be the root cause of projects being late and over budget. 
+
+So in Scrum, we try to overcome this problem by practicing relative estimation, instead of absolute estimation. Absolute estimation is also called time and effort
+estimation in traditional project management. Relative estimation means that instead of trying to determine exactly how long a task will take, we compare the effort
+of that task, to the effort for another task, and that becomes the estimate. 
+
+That estimation is not done in traditional units of hours, days or weeks, instead we assign each Backlog item of value that is a relative unit or size. There are
+two common relative estimation methods that I find most useful when estimating user stories. These are T-shirt sizes and story points. Let's start with the simpler
+of the two: T-shirt sizes. 
+
+To get started, the team simply picks one item on the Backlog that seems to be about a medium size workload, and simply calls that a "medium" in the estimate field.
+After that they take another item on the Backlog and compare it to the medium item they just identified, and answer the question: if that first item was a medium,
+what size would I give this one? The team will repeat this process on each additional item or user story on the Backlog until they're all addressed and done. 
+
+For example, let's take four items from Virtual Verde's Product Backlog. Adding bonsai trees to the catalog, creating a mobile app, launching a new logo, and 
+creating the new account page. The team decides that launching a new logo is their medium. The team, together, compares the other three items to that medium item,
+which gives them their relative effort estimate.
+
+Then, there's my favorite method for estimating user stories, tasks and Backlog items known as story points. Story points are a bit more advanced than T-shirt
+sizes, but the concept is similar. The first step is the same: The team picks an item as their anchor item and they'll conduct their estimations relative to
+that item. 
+
+Instead of using t shirt sizes, this process uses what are called story points. Most teams use a famous mathematical sequence of numbers called the Fibonacci 
+sequence. The sequence is 0,1,1,2,3,5,8,13, 21 continues on to infinity. For the sake of story points, we skip zero and the first 1. These numbers are special in
+that they start out close to one another, but as the numbers get higher, they spread farther and farther out.
+
+This is helpful because as the estimate gets higher, the uncertainty and risk also gets higher. This number combines both effort and risk into one number. In
+other words, there's not much use in debating estimation values between 21 and 25 points, but choosing between 21 and 34 is a real conversation. This concept can
+be tricky at first and practice is the best way to learn it to explain this concept. 
+
+In the classes that I teach at google, we use this example, let's say you want to measure the effort to completely consume different kinds of fruit. You have in 
+front of you: an orange, a strawberry, a banana, a mango, a pineapple and a cherry. 
+
+What are the factors that go into that estimate? Are their seeds to deal with, do I need to eat it with a napkin? Can I eat in one bite? Do I have to peel it or 
+do I need any tools to prepare it? Okay, let's try it, if I choose a mango as our starting fruit at five points, how might you estimate the rest? I would rate
+them this way: Orange is three, because the peel is easier than cutting a mango. Strawberry: one, because I don't mind eating stems; low effort. Banana: three,
+because I have to peel it similar to oranges. 
+
+Pineapple 13, because it's giant, I can't eat it in one sitting. Cherry: two. stems, seeds, you know what I mean. It's really fun to learn how differently people
+have learned how to cut up a pineapple. 
+
+But more importantly, what estimation exercises do for a team is uncover great ideas on how to get something done, as well as surfacing where the riskiest parts 
+of the project are. Why do I like story points better than t shirt sizes? Let's apply them to our Virtual Verde Backlog.
+
+Now we can see that adding a new user and adding bonsai trees to our catalogue aren't quite the same Size, which the T-shirt sizes might have implied. Using story
+points, a new user is eight points and the bonsai trees are 13. Why would I mark them this way? Well, implementing a new user page is a simple software update. 
+
+Adding bonsai trees is more than just software, it includes finding vendors building a supply chain and more. I mentioned earlier that Backlog refinement, which 
+includes adding estimates and updating the order field, should take place regularly. 
+
+Just as it's up to the team to choose which estimation method they select, it's up to the team to decide when and how often to conduct Backlog refinement. Some 
+teams prefer to set up special meetings just to refine the Backlog. Others will simply refine the Backlog continuously in conversations or emails. 
+
+And finally, some teams will conduct Backlog refinement as part of a scheduled event, like their Sprint planning meeting. Now, you know how to define Backlog 
+refinement and you can explain relative effort estimation, T-shirt sizes and story points. In the next video, we're going to learn more about Sprint planning, 
+meet you there.
