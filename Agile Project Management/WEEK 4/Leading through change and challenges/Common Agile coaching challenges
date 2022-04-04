@@ -1,0 +1,73 @@
+Common Agile coaching challenges
+
+
+In this video, we'll discuss some more common coaching challenges you might encounter while managing an Agile team or project, whether they're a new team or they've
+been around for a while. The three challenges we'll focus on are managing a stable product roadmap, incomplete implementation of Scrum, and experiencing a lack of
+stability within the team.
+
+First, let's discuss the challenge of managing a stable product roadmap. Agile projects almost always experience changes in the product roadmap. Being able to respond
+quickly and productively to these changes is a core Agile value. But it is possible to have too much change impacting the project, which can lead to an unstable
+product roadmap. There are two main causes of an unstable product roadmap: product ambition and product assumptions.
+
+Let's cover product ambition first. Product ambition poses a challenge when product leadership is overly ambitious about what the team can realistically deliver. The
+Product Owner is responsible for representing the project to customers and executives because the Product Owner wants to make the stakeholders happy. 
+
+It can be easy for them to over-promise what the project can deliver. For example, imagine that our Office Green CEO notices that the Virtual Verde business in
+North America is doing really well. In a meeting they say to the Product Owner, "This is amazing! I'd love to launch Virtual Verde in Asia in the next four months.
+What do you think?" The Product Owner really wants to deliver so they tell the CEO sure, but the Product Owner won't actually know if meeting this objective is 
+possible until they discuss it with the team, which means they might accidentally be setting an unrealistic expectation with the CEO.
+
+So how do you deal with this challenge? Here are three ideas to maintain a healthy roadmap management plan between you and the Product Owner. First, agree up front 
+how to handle new opportunities, define when they are reviewed and estimated, and how customer or management commitments are made. Second, set up regular roadmap
+reviews with the entire team, at least quarterly, so that everyone knows what to expect. And third, promote sharing knowledge between the Product Owner and the
+Development Team
+
+so that the Product Owner knows how much effort the product takes to build and the team is aware of changes as early as possible. The second thing that can cause an
+unstable product roadmap is making too many product assumptions. When there's uncertainty in a project, you may be required to make some assumptions to move things 
+forward. But making too many assumptions can jeopardize the team's success.
+
+Let's go back to our Virtual Verde example. Sending plants to customers' homes is a complex process. You need to consider a lot of different factors, like which
+plants will sell best, which plants will stay healthy in a wide variety of climates and settings, and what vendors to work with. The team does their best to study
+the market and opportunity, but they have to make some assumptions and move forward with decisions relying on less than perfect information as a way to deal with 
+product assumption issues. Document the assumptions and make them transparent.
+
+This allows you to discuss the assumptions as a team and either agree that they're safe assumptions to make or decide to question and double check them. If you do
+decide to double check them, you can use unbiased user research.
+
+Unbiased user research gathers information about what users really want. It allows you to confirm or reject assumptions and helps you move forward with confidence.
+User research could involve conducting surveys, running focus groups, or using other methods to collect objective data about your users. 
+
+The next big challenge you might encounter relates to an incomplete implementation of Scrum. This happens when Scrum practices are only partially implemented or
+when Scrum practices are implemented without proper support and coaching. Scrum roles, artifacts, and activities are designed to work together as a set. If you 
+only partially implement them, you might end up reducing their benefits. Incomplete implementation of Scrum can cause a lot of issues.
+
+First, it can lead to a loss of clear roles and responsibilities. To implement Scrum completely, you should define the roles for the team and then fill those roles
+with specific individuals. For example, if you try to have a Developer also act as the Scrum Master, they might not have the bandwidth to do either role very well.
+Better to have Developers be on the Development Team and you the project manager be the Scrum Master. 
+
+You might also be tempted to skip some events or blend them to save time, but a lack of clear boundaries for Sprint Review, Sprint Retrospective, and Sprint 
+Planning can lead to reducing transparency, inspection, and adaptation, and these are all essential to experience the full benefits of Scrum. 
+
+And finally, not providing the team with the Scrum coaching they need would also mean that you haven't fulfilled your role as Scrum Master. It's your job to 
+fully explain the Scrum practices and provide coaching so your team understands the reasoning behind the practices and can embrace their benefits. The solution
+to all of these challenges is to implement Scrum completely. 
+
+Being the Scrum Master is a critical role. You're the coach, so you should reinforce the connections between the team's activities and the Scrum and Agile values.
+For example, if your team complains about Daily Standups, remind them that the purpose of Standups is to gain feedback, unblock work, ask for help, and reinforce
+the importance of staying focused on the Sprint goals. You can also make sure roles are well-defined and properly fulfilled. 
+
+For example, ensure that all team members understand their own roles as well as the roles of their teammates and how those roles interact. For example, the Product
+Owner makes sure we build the right thing, the Development Team ensures we build it right, and the Scrum Master ensures we build it fast. 
+
+And finally, the last big challenge you might encounter with Agile and Scrum teams is a lack of team stability. When the team changes a lot, with people leaving
+and joining frequently, it can make things unpredictable and disrupt the flow of work. There are a few things you can do to address instability on your team. 
+
+First, have a quick onboarding process for new team members to help them get to know the rest of the team and understand the project. Second, use a Pair Programming
+style, where a new team member teams up with a colleague and starts learning on the job. This also helps if people leave the team since a partner should be able 
+to pick up where they left off. And third, if team composition changes because members keep leaving, try having shorter Sprints.
+
+This way, team members can wrap up their last Sprint's worth of work before leaving. To recap, the three main challenges we've covered in this video are managing 
+a stable product roadmap, incomplete implementation of Scrum, and a lack of team stability.
+
+I've encountered each of these challenges and more in many of my teams. The wonderful thing about Agile is that there's a huge community of Agilists that are 
+happy to help with any challenges you might come across. Even an experienced Agilist like myself asks for help now and then. 
