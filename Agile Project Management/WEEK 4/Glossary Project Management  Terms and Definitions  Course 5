@@ -1,0 +1,282 @@
+Glossary
+Project Management 
+Terms and Definitions 
+Course 5
+
+
+A
+Acceptance criteria: The checklist the project manager uses to decide whether a story is done
+
+Adaptation: Adjusting project, product, or processes to minimize any further deviation or issues; one of the three pillars of Scrum
+
+Agile Manifesto: A collection of four values and 12 principles that define the mindset that all Agile teams should strive for
+
+Agile project management: An approach to project and team management that embodies “agility” based on the Agile Manifesto
+
+Ambiguity: A state where conditions and root causes of events or circumstances are unclear, leading to the possibility of misunderstanding
+
+
+
+
+
+B
+Backlog refinement: The act of keeping the Backlog prioritized, estimated, and described so the Scrum Team can operate effectively
+
+Burndown chart: A visual that measures time against the amount of work done and amount of work remaining
+
+Business agility: Refers to incorporating Agile principles into the wide sphere of management
+
+Business collaboration: The concept that collaborating with customers gets critical business information to the team immediately, allowing them to adjust and 
+adapt new information instantly; one of the four themes of the Agile principles
+
+
+
+
+
+C
+Capacity: The amount of work a team can handle in a given amount of time
+
+Case studies: In-depth, data-driven analyses of a business, community, or organization
+
+Change control board: A formal and rigorous process to manage any changes to requirements
+
+Change management: The process of getting people to adopt a new product, process, or value system
+
+Coaching: A two-way communication style aimed at influencing and developing employees’ skills, motivation, and judgment
+
+Complexity: Refers to the high number of interrelated forces, issues, organizations, and factors that would influence a project
+
+Continuous integration and continuous refactoring: The Extreme Programming practice of merging product changes into a shared version several times a day in order 
+to get quick feedback on the quality of the code or product
+
+CSV file: A file type that holds a spreadsheet’s data; stands for “Comma Separated Value” because it uses commas to separate values
+
+Cynefin framework: A framework used for measuring project complexity; pinpoints five sections of complexity that various projects may fall into: obvious, complex, 
+complicated, chaotic, and disorder
+
+
+
+
+
+D
+Daily Scrum: A brief meeting of up to 15 minutes that takes place every day of the Sprint to inspect progress toward the goal; also called a stand-up
+
+Definition of Done: An agreed-upon set of items that must be completed before a project or user story can be considered complete
+
+Deliverable: A tangible outcome from a project
+
+Development Team: In Scrum, the people who do the work to build the product; also called Developers
+
+DevOps: An organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among 
+software stakeholders
+
+Disciplined Agile Delivery (DAD): A hybrid approach that combines the strategies from various Agile frameworks, including Kanban, LeSS, Lean Development, Extreme
+Programming,  and Agile Modeling; guides people through process-related decisions and helps develop a scaled Agile strategy based on context and desired outcomes
+
+
+
+
+
+E
+Empiricism: The idea that true knowledge comes from actual, lived experience
+
+Epic: A group or collection of user stories
+
+Extreme Programming (XP): A methodology that aims to improve product quality and the ability to respond to changing customer needs; takes best practices for
+the development process to extreme levels
+
+
+
+
+
+F
+Five values of Scrum: The core values that guide how Scrum Teams work and behave: commitment, courage, focus, openness, and respect
+
+Flow: A core principle of Kanban that aims to maximize efficiency
+
+
+
+
+
+I
+I.N.V.E.S.T: Acronym for the criteria each user story should meet; stands for: independent, negotiable, valuable, estimable, small, and testable
+
+Incremental: Describes work that is divided into smaller chunks that build on one another
+
+Influencer: Someone who is able to lead and influence others to change their behaviors, hearts, and minds to produce meaningful, sustainable results
+
+Inspection: A timely check toward the outcome of a Sprint Goal to detect undesirable variances; one of the three pillars of Scrum
+
+Iterative: Refers to repeating cycles of delivery
+
+
+
+
+
+K
+Kanban: A methodology that provides visual feedback to everyone who might be interested in the status of the work in progress; displays the progress of a project
+as “to do,” “in progress,” and “done”
+
+
+
+
+
+L
+Large-Scale Scrum (LeSS): A framework that aims to maximize the Scrum Team’s ability to deliver value and reduce waste in larger organizations
+
+Lean: A methodology in which the main principle is the removal of waste within an operation
+
+
+
+
+
+M
+Managing: The act of overseeing the work of others; can include onboarding and orienting new employees, conducting meetings, delegating tasks and assignments, 
+monitoring progress and performance against those tasks, making decisions, and dealing with conflicts
+
+Minimum viable product (MVP): A version of a product with just enough features to satisfy early customers
+
+Mission: A short statement that stays constant for the team throughout the project and gives them something to work toward
+
+
+
+
+
+O
+Organizational culture: Describes shared workplace values and shows up in people’s behaviors, activities, the way they communicate, and how they work with each 
+other
+
+
+
+
+
+P
+Pair Programming: The XP practice that refers to when two team members work together at the same time on one task
+
+Product Backlog: The single authoritative source for things a team works on; contains all of the features, requirements, and activities associated with
+deliverables to achieve the goal of the project
+
+Product Goal: The desired future state of the product; can serve as a target for the Scrum Team to plan against
+
+Product increment: What is produced after a given Sprint
+
+Product Owner: In Scrum, the role responsible for maximizing the value of the product and the work of the team
+
+Product requirements document: A document that lists the scope and requirements of the project; used in Waterfall project management
+
+Product roadmap: A visualization or document that provides a high-level view of the expected product, its requirements, and an estimated schedule for reaching 
+milestones
+
+Product vision: Defines what the product is, how it supports the customer’s business strategy, and who will use it; makes clear what outcomes the team is 
+responsible for and where their boundaries are
+
+
+
+
+
+R
+Relative estimation: A comparison of the effort for a task to the effort for another task
+
+Releasable: Refers to when the team has developed a minimum viable product of a given feature or requirement
+
+Release plans: Indicates the approximate date when the team is expected to release and deliver certain features to the customer or user; contains a release goal,
+the list of Backlog items, an estimated release date, and any other relevant dates that impact a release
+
+Requirements: Conditions that must be met or tasks that must be finished to ensure the successful completion of the project
+
+Retrospectives and continuous learning: Refers to striving continuously to learn and adapt to what’s working and what’s not; one of the four themes of the Agile
+principles
+
+
+
+
+
+S
+Scaled Agile Framework (SAFe): A Lean-Agile scaling framework that combines concepts from Kanban, Scrum, Extreme Programming (XP), DevOps, and Design Thinking
+methodologies; puts the goal of delivering value above all else
+
+Scrum: A framework for developing, delivering, and sustaining complex products
+
+Scrum Master: In Scrum, the role responsible for ensuring the team lives Agile values and principles and follows the processes and practices the team agreed to; 
+shares information with the larger project team and helps the team focus on doing their best work
+
+Scrum of Scrums: A technique for integrating the work of multiple, smaller Scrum Teams working on the same project or solution
+
+Solution Design Sprint: An entire Sprint spent working solely on the solution design
+
+Spotify model: The Spotify organization’s version of the Agile approach; focuses on culture, team autonomy, communication, accountability, and quality to increase 
+agility
+
+Sprint: A timeboxed iteration where a planned amount of work is done
+
+Sprint Backlog: The set of Product Backlog items that are selected to be completed during the upcoming Sprint
+
+Sprint Planning: Refers to when the entire Scrum Team comes together to map out what will be done during the Sprint
+
+Sprint Retrospective: An essential meeting of up to three hours for the Scrum Team to take a step back, reflect, and identify improvements about how to work
+together as a team
+
+Sprint Review: A meeting with the entire Scrum Team where the product is demonstrated to determine which aspects are finished and which aren’t
+
+Stacey Matrix: A framework developed to help project managers identify the complexities of their environment so they can adapt their style of decision-making;
+enables a project manager to consider the knowns and unknowns within their project based on implementation and requirements
+
+Story points: A method for estimating user stories, tasks, and backlog items by assigning a point value based on effort and risk 
+
+
+
+
+
+T
+T-shirt sizes: A way to estimate what is needed for a work effort in terms of time, budget, and energy by categorizing it as XS, S, M, L, XL, or XXL
+
+Team dynamics and culture: Refers to creating an effective team culture that is inclusive, supportive, and empowering; one of the four themes of the Agile 
+principles
+
+Three pillars of Scrum: The foundational concepts on which Scrum is based: transparency, inspection, and adaptation
+
+Timebox: A Scrum concept that refers to the estimated duration for an event
+
+Transparency: Making the most significant aspects of the work visible to those responsible for the outcome; one of the three pillars of Scrum
+
+
+
+
+
+U
+Uncertainty: A lack of predictability or high potential for surprise
+
+User story: A short, simple description of a feature told from the perspective of the user
+
+
+
+
+
+V
+Value delivery: Refers to delivering the work as quickly as possible to get feedback and mitigate time risk; one of the four themes of the Agile principles
+
+Value roadmap: An Agile way of mapping out the timelines and requirements for the product-development process
+
+Velocity: A measure of the amount of work a team can take on during a single Sprint
+
+Volatility: The rate of change and churn in a business or situation
+
+VUCA: The conditions that affect organizations in a changing and complex world; stands for volatility, uncertainty, complexity, and ambiguity
+
+
+
+
+
+W
+
+Waterfall project management: A project management methodology that refers to the sequential or linear ordering of phases
+
+Work-in-progress (WIP) limit: A constraint on how many work items are actively being worked on at any given time
+
+
+
+
+
+
+
+
