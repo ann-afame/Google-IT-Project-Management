@@ -1,4 +1,5 @@
 Finding more information
+
 Throughout this course, you will learn the basics of project management. We will provide a lot of information through videos and readings. But sometimes, you may need to 
 look things up on your own for additional learning. Things change fast in this growing field, so it is critical to do your own research so you can stay up-to-date on what 
 is new. 
