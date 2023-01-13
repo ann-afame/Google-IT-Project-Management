@@ -52,7 +52,6 @@ Google Project Plan Timeline Template
 Microsoft Gantt Chart Template
 
 
-
 Work management tools
 There are many work management tool options available for you to utilize when planning your project. We covered some of these in previous videos, but as a refresher,
 it is important to keep in mind that every company, project manager, and customer has a work management tool preference. You may come across tools like Smartsheet, 
